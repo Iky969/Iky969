@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 # Hey, I'm Rzy 👋
@@ -88,4 +87,3 @@ curl -fsSL https://raw.githubusercontent.com/Iky969/Ruko-agent/main/install.sh |
 *Build locally. Trust less. Ship carefully.*
 
 </div>
-```
