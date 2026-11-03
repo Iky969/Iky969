@@ -3,7 +3,7 @@
 ![Hu tao](foto/IMG_05.jpg)
 
 ### Hai, saya Iky.
-
+Just do it.
 </div>
 
 - 🔭 Sedang membangun **[Ruko](https://github.com/Iky969/Ruko-agent)**, AI coding agent CLI berbasis TypeScript tanpa dependensi runtime
