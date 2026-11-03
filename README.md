@@ -2,9 +2,7 @@
 
 ![Hu tao](foto/IMG_05.jpg)
 
-### Hai, saya Iky 👋
-
-Mahasiswa yang suka membangun tools dan eksperimen teknis, terutama di sekitar **CLI**, **keamanan**, dan **AI**.
+### Hai, saya Iky.
 
 </div>
 
